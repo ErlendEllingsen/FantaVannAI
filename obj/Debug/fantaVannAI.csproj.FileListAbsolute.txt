@@ -1,0 +1,9 @@
+c:\users\erlend\documents\visual studio 2012\Projects\fantaVannAI\fantaVannAI\bin\Debug\fantaVannAI.exe.config
+c:\users\erlend\documents\visual studio 2012\Projects\fantaVannAI\fantaVannAI\bin\Debug\fantaVannAI.exe
+c:\users\erlend\documents\visual studio 2012\Projects\fantaVannAI\fantaVannAI\bin\Debug\fantaVannAI.pdb
+c:\users\erlend\documents\visual studio 2012\Projects\fantaVannAI\fantaVannAI\bin\Debug\Newtonsoft.Json.dll
+c:\users\erlend\documents\visual studio 2012\Projects\fantaVannAI\fantaVannAI\bin\Debug\Newtonsoft.Json.pdb
+c:\users\erlend\documents\visual studio 2012\Projects\fantaVannAI\fantaVannAI\bin\Debug\Newtonsoft.Json.xml
+c:\users\erlend\documents\visual studio 2012\Projects\fantaVannAI\fantaVannAI\obj\Debug\fantaVannAI.csprojResolveAssemblyReference.cache
+c:\users\erlend\documents\visual studio 2012\Projects\fantaVannAI\fantaVannAI\obj\Debug\fantaVannAI.exe
+c:\users\erlend\documents\visual studio 2012\Projects\fantaVannAI\fantaVannAI\obj\Debug\fantaVannAI.pdb
